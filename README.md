@@ -19,3 +19,7 @@ flutter create hello_world
 cd hello_world
 flutter run -d DMYX75XGPFYLSSKV
 ```
+
+## Running project in debugger mode + amazing automatic hot reload
+
+![image](https://github.com/sahilrajput03/learn-flutter/assets/31458531/d58c0598-293e-460b-b924-9449e1a10fa9)
