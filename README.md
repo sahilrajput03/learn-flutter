@@ -7,3 +7,15 @@ flutter run -d DMYX75XGPFYLSSKV # Here `DMYX75XGPFYLSSKV` is device ID of my Poc
 # Use below command to run app on enulator
 flutter run -d emulator-<emulator_number>
 ```
+
+**Quick Links:**
+- flutter Cli tool Docs: [Click here](https://docs.flutter.dev/reference/flutter-cli)
+
+
+## Creating project
+
+```bash
+flutter create hello_world
+cd hello_world
+flutter run -d DMYX75XGPFYLSSKV
+```
