@@ -20,3 +20,7 @@ flutter run -d emulator-<emulator_number>
 ## Running project in debugger mode + amazing automatic hot reload
 
 ![image](https://github.com/sahilrajput03/learn-flutter/assets/31458531/d58c0598-293e-460b-b924-9449e1a10fa9)
+
+## Reset the state
+
+![image](https://github.com/sahilrajput03/learn-flutter/assets/31458531/227d82ba-95e1-48a8-86f9-7160562d403c)
