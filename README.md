@@ -2,6 +2,10 @@
 
 **Quick Links:**
 - flutter Cli tool Docs: [Click here](https://docs.flutter.dev/reference/flutter-cli)
+- Learn Flutter Google Doc: [Click here](https://docs.google.com/document/d/1R_BumyUBGAscuIj8BuciBrf65HqF7tAFJZlZIOuw0MY/edit?usp=sharing)
+
+## TODO
+- Continue video from: 1h 2m 40s: [Click here](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)
 
 ## Creating project
 
