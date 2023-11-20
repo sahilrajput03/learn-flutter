@@ -1,5 +1,8 @@
 # Learn flutter
 
+**Awesome Tools:**
+- Dhiwise - This will change flutter development forever | Dhiwise: [Click here](https://www.youtube.com/watch?v=DAl3dbTnAgw)
+
 **Quick Links:**
 - flutter Cli tool Docs: [Click here](https://docs.flutter.dev/reference/flutter-cli)
 - Learn Flutter Google Doc: [Click here](https://docs.google.com/document/d/1R_BumyUBGAscuIj8BuciBrf65HqF7tAFJZlZIOuw0MY/edit?usp=sharing)
@@ -28,3 +31,7 @@ flutter run -d emulator-<emulator_number>
 ## Reset the state
 
 ![image](https://github.com/sahilrajput03/learn-flutter/assets/31458531/227d82ba-95e1-48a8-86f9-7160562d403c)
+
+## State Management libraries in flutter
+
+![image](https://github.com/sahilrajput03/learn-flutter/assets/31458531/3d24745a-3a17-41c7-acbf-4f6b93be14e9)
