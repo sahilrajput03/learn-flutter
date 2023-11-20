@@ -1,7 +1,8 @@
 # Learn flutter
 
 **Awesome Tools:**
-- Dhiwise - This will change flutter development forever | Dhiwise: [Click here](https://www.youtube.com/watch?v=DAl3dbTnAgw)
+- Dhiwise:  A web tool for online development for flutter.
+  - This will change flutter development forever | Dhiwise: [Click here](https://www.youtube.com/watch?v=DAl3dbTnAgw)
 
 **Quick Links:**
 - flutter Cli tool Docs: [Click here](https://docs.flutter.dev/reference/flutter-cli)
