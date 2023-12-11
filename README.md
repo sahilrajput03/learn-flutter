@@ -7,8 +7,8 @@
 **Quick Links:**
 - flutter Cli tool Docs: [Click here](https://docs.flutter.dev/reference/flutter-cli)
 - Learn Flutter Google Doc: [Click here](https://docs.google.com/document/d/1R_BumyUBGAscuIj8BuciBrf65HqF7tAFJZlZIOuw0MY/edit?usp=sharing)
-- Integration Testing: [Click here](https://docs.flutter.dev/testing/integration-tests)
-- Screen readers: [Click here](https://docs.flutter.dev/ui/accessibility-and-internationalization/accessibility#screen-readers)
+- Flutter Docs | Integration Testing: [Click here](https://docs.flutter.dev/testing/integration-tests)
+- Flutter Docs | Screen readers: [Click here](https://docs.flutter.dev/ui/accessibility-and-internationalization/accessibility#screen-readers)
 - STACK OVERFLOW Query: Does flutter web only support rendering everything in canvas?: [Click here](https://stackoverflow.com/questions/66836840/does-flutter-web-only-support-rendering-everything-in-canvas)
 
 ## TODO
