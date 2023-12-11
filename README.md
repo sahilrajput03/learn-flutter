@@ -41,3 +41,7 @@ flutter run -d emulator-<emulator_number>
 ## State Management libraries in flutter
 
 ![image](https://github.com/sahilrajput03/learn-flutter/assets/31458531/3d24745a-3a17-41c7-acbf-4f6b93be14e9)
+
+## Everything is rendred inside the `<canvas>` element in flutter
+
+![image](https://github.com/sahilrajput03/learn-flutter/assets/31458531/8d1b6370-67fe-4b69-80c4-922d4c73f616)
