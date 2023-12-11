@@ -52,5 +52,7 @@ flutter run -d emulator-<emulator_number>
 
 ## Accessiblity
 
+- Flutter Docs | Screen Reader: [Click here](https://docs.flutter.dev/ui/accessibility-and-internationalization/accessibility#screen-readers)
+
 1. tab switching works quite cool with a list of websited made with flutter
 2. VoiceOver (apple official screen reader app) doesn't work great at all, check this issue: [Click here](https://github.com/flutter/flutter/issues/115158) (~found by Eric)
