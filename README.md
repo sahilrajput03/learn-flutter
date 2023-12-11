@@ -1,6 +1,5 @@
 # Learn flutter
 
-
 **Awesome Tools:**
 - Dhiwise:  A web tool for online development for flutter.
   - This will change flutter development forever | Dhiwise: [Click here](https://www.youtube.com/watch?v=DAl3dbTnAgw)
@@ -8,6 +7,7 @@
 **Quick Links:**
 - flutter Cli tool Docs: [Click here](https://docs.flutter.dev/reference/flutter-cli)
 - Learn Flutter Google Doc: [Click here](https://docs.google.com/document/d/1R_BumyUBGAscuIj8BuciBrf65HqF7tAFJZlZIOuw0MY/edit?usp=sharing)
+- Integration Testing: [Click here](https://docs.flutter.dev/testing/integration-tests)
 - STACK OVERFLOW Query: Does flutter web only support rendering everything in canvas?: [Click here](https://stackoverflow.com/questions/66836840/does-flutter-web-only-support-rendering-everything-in-canvas)
 
 ## TODO
