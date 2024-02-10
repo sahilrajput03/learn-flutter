@@ -13,6 +13,8 @@
 - How to know if an app is made with Flutter?: [Click here](https://www.reddit.com/r/FlutterDev/comments/cmxqlx/how_to_know_if_an_app_is_made_with_flutter/)
 - List of web apps built with Flutter: [Click here](https://www.reddit.com/r/FlutterDev/comments/voxj4x/list_of_web_apps_built_with_flutter/)
 - STACK OVERFLOW Query: Does flutter web only support rendering everything in canvas?: [Click here](https://stackoverflow.com/questions/66836840/does-flutter-web-only-support-rendering-everything-in-canvas)
+- By Samaksh:
+    - Flutter State Management Course 💙: [Click here](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO)
 
 ## TODO
 - For google-code: Project `namer_app`: Continue video from: 1h 2m 40s: [Click here](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)
